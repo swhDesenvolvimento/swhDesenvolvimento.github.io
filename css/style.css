@@ -135,13 +135,8 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-<<<<<<< HEAD
-  padding: 20px 0;
-  height: 84px;
-=======
   padding: 2px 0;
   height: 47px;
->>>>>>> master
   transition: all 0.5s;
   z-index: 997;
   background: #fff;
@@ -263,11 +258,7 @@ h6 {
 
 #intro #intro-carousel::before {
   content: '';
-<<<<<<< HEAD
-  background-color: rgba(255, 255, 255, 0.6);
-=======
   background-color: rgba(255, 255, 255, 0.5);
->>>>>>> master
   position: absolute;
   height: 100%;
   width: 100%;
@@ -280,11 +271,7 @@ h6 {
 
 #intro #intro-carousel .item {
   width: 100%;
-<<<<<<< HEAD
-  height: 70vh;
-=======
   height: 86vh;
->>>>>>> master
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -297,15 +284,12 @@ h6 {
 
 /* Nav Menu Essentials */
 
-<<<<<<< HEAD
-=======
 .img-responsive {
 	max-width: auto; 
 	height: auto; 
 	display:block;
 }
 
->>>>>>> master
 .nav-menu,
 .nav-menu * {
   margin: 0;
